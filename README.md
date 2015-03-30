@@ -1,2 +1,0 @@
-# fragmenttest
-Simple fragment test
