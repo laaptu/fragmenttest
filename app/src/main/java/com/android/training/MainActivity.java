@@ -43,7 +43,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         Log.i(TAG, "onCreate()");
         if (true) {
-            startActivity(new Intent(this, ActivityFragmentState.class));
+            startActivity(new Intent(this, ActivityFragmentStack.class));
             this.finish();
             return;
         }

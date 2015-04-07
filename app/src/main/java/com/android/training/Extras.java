@@ -11,4 +11,9 @@ public class Extras {
     public static final String NUM_FIRST = "NumFirst";
     public static final String NUM_SECOND = "NumSecond";
     public static final String NUM_SUM = "sum";
+    public static final String COLOR_BG = "bgColor";
+    public static final String TITLE = "title";
+    public static final String FRAGMENT_COUNT = "count";
+
+
 }
