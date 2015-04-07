@@ -21,6 +21,10 @@
         <activity
             android:name=".ActivityFragmentState"
             android:configChanges="orientation|keyboard" />
+
+        <activity
+            android:name=".DummyActivity"
+            android:configChanges="orientation|keyboard" />
     </application>
 
 </manifest>

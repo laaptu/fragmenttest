@@ -2,6 +2,41 @@
 <items version="2" >
 
     <item
+        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest/app/build/intermediates/pre-dexed/debug/classes-69a4dc7e6fa1b91fbd805ac010e933146c229e02.jar" />
+    </item>
+    <item
+        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/pre-dexed/debug/classes-558acb116274158d7d6c84385cf4823e4b6fe648.jar" />
+    </item>
+    <item
+        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest/app/build/intermediates/pre-dexed/debug/classes-62036a427ef21c9dff8491fbfd5e1cdb76f4122d.jar" />
+    </item>
+    <item
+        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f79a3869bccda8750dfc82ea4cadde4026e7e486.jar" />
+    </item>
+    <item
+        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4790afc3b93d26f4965f46247b28ddb501da4a27.jar" />
+    </item>
+    <item
         jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -14,20 +49,6 @@
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
         <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-b03ab28d51378086634d1a76d4f834467e104197.jar" />
-    </item>
-    <item
-        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/pre-dexed/debug/classes-558acb116274158d7d6c84385cf4823e4b6fe648.jar" />
-    </item>
-    <item
-        jar="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/laaptu/android/open_source/laaptu/android_fragments/fragmenttest1/fragmenttest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4790afc3b93d26f4965f46247b28ddb501da4a27.jar" />
     </item>
 
 </items>

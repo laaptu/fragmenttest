@@ -1,4 +1,4 @@
-package com.android.training;
+package com.android.training.fragments;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -8,6 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.android.training.Extras;
+import com.android.training.R;
 
 
 /**

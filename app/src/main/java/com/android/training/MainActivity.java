@@ -13,6 +13,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
+import com.android.training.fragments.MainActivityFragment;
+
 
 public class MainActivity extends Activity {
 
